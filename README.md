@@ -1,4 +1,4 @@
-# Site on Node JS
+# Site | NodeJS
 
 #### This Node.js code represents a simple web server with Express, Morgan, and dotenv integration, featuring organized routes and error handling. The server responds with "Hello, World!" on the root route and "This is the About page." on the '/about' route.
 ### Step 1: Set Up the Project
